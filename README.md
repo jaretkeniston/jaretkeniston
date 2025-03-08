@@ -7,8 +7,9 @@ Hi, I'm Jaret. A Data Scientist with expertise in data analysis, data modeling, 
 - Developing dashboards in R Shiny.
 
 
-
 ### 📚 Portfolio
+
+- See my [portfolio](https://github.com/jaretkeniston/Portfolio-Guide), where I showcase my work.
 
 ### 🛠️ Tools
 
