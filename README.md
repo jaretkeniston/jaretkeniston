@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Introducing Myself
 
-<!--
-**jaretkeniston/jaretkeniston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Jaret. Data Scientist with expertise in data analysis, data modeling, hypothesis testing, and experimental design.
 
-Here are some ideas to get you started:
+Querying data using SQL & BigQuery.
+Generate analysis, visualizations, and models using R.
+Developing dashboards in R Shiny.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Portfolio
+
+### 🛠️ Tools
+
+- Language: R
+- Database: MySQL, BigQuery
+- Visualization: R Shiny, Looker Studio
+
+### 🔗 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/jaretkeniston/)
+- [Bluesky](https://bsky.app/profile/jaretk.bsky.social)
