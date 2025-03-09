@@ -1,10 +1,11 @@
 ## 👋 Introducing Myself
 
-Hi, I'm Jaret. A Data Scientist with expertise in data analysis, data modeling, hypothesis testing, and experimental design.
+Hi, I'm Jaret. A Data Scientist with expertise in experimental design, causal inference, and data visualization, with 10 years of professional experience applying these skills to eCommerce and digital marketing.
 
-- Querying data using SQL & BigQuery.
-- Generate analysis, visualizations, and models using R.
+- Querying data using SQL (MySQL & BigQuery). Or accessing platform APIs (Google Ads & Analytics, Google Search Console, etc.)
+- Generating analysis, visualizations, and models using R.
 - Developing dashboards in R Shiny.
+- Designing and executing experiments for eCommerce websites, then providing analysis and interpretaion for business actions.
 
 
 ### 📚 Portfolio
