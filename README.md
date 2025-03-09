@@ -10,7 +10,7 @@ Hi, I'm Jaret. A Data Scientist with expertise in experimental design, causal in
 
 ### 📚 Portfolio
 
-- See my [portfolio](https://github.com/jaretkeniston/Portfolio-Guide), where I showcase my work.
+- See my [portfolio](https://github.com/jaretkeniston/Portfolio-Guide), where I showcase some of my work.
 
 ### 🛠️ Tools
 
